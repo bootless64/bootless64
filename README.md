@@ -29,7 +29,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-Penetration_Testing-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-Custom_Environment-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-Offensive_Security-black?style=for-the-badge)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-Security_Research-15E0ED?style=for-the-badge)
 
 ---
 
