@@ -23,28 +23,6 @@
 - Familiar with UAC bypass techniques and payload behavior
 - Currently expanding knowledge in advanced exploitation and system security
 
-  
-## Cyber Security
-Actively learning and exploring:
-
-- Reverse Engineering  
-- Malware Analysis  
-- Security Research  
-- Understanding how and why systems fail  
-
-Security is not about tools.  
-It’s about **knowledge and insight**.
-
----
-
-## Hardware & Embedded Systems
-Exploring the boundary between software and hardware:
-
-- Arduino ecosystem  
-- ESP32 programming  
-- Low-level hardware interaction  
-- Embedded security basics  
-
 ---
 
 ## Operating Systems & Environments
@@ -63,9 +41,9 @@ Exploring the boundary between software and hardware:
 
 ---
 
-## Philosophy
-If you understand how something can be broken,  
-you understand how to secure it.
+## Hardware & Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-Minimal tools.  
-Maximum understanding.
+---
+
