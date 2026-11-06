@@ -17,18 +17,6 @@ Interested in cybersecurity, reverse engineering, malware analysis, and low-leve
 
 I enjoy exploring how software works beneath the surface, understanding operating system internals, and experimenting with security concepts through practical projects and research.
 
-## Areas of Interest
-
-- Cyber Security & Security Research
-- Reverse Engineering
-- Malware Analysis
-- Linux & System Internals
-- Vulnerability Research
-- Network Security
-- Privilege Escalation
-- Android Security & Kernel Experimentation
-- Software Development
-
 ## Technical Skills
 
 ### Programming Languages
