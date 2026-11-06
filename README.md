@@ -29,16 +29,6 @@ I enjoy exploring how software works beneath the surface, understanding operatin
 - Android Security & Kernel Experimentation
 - Software Development
 
-## Featured Repository
-
-### [Associate](https://github.com/bootless64/associate)
-
-Academic projects and coursework from my Associate Degree in Computer Software Engineering.
-
-Includes programming assignments, software development projects, database design, networking, operating systems, computer vision, and other academic work.
-
-**Technologies:** C++, Java, PHP, Python, SQL, OpenCV, Arduino.
-
 ## Technical Skills
 
 ### Programming Languages
