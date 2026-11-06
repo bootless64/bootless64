@@ -60,16 +60,6 @@ Additional technologies: SQL Server, Tesseract OCR, PyMuPDF, Flet, Cisco Packet 
 - Practical programming and software development.
 - Network and security experimentation in lab environments.
 
-## Currently Learning
-
-- Reverse Engineering
-- Malware Analysis
-- Linux System Internals
-- Operating System Security
-- Network Security
-- Low-Level Programming
-- Vulnerability Research
-
 ---
 
 <p align="center">
